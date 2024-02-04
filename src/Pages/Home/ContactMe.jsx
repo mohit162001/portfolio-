@@ -24,7 +24,7 @@ export default function ContactMe() {
         <p className="sub--title">Get In Touch</p>
         <h1>Contact Me</h1>
         <p className="text-lg">
-      <a href="mailto:mohit.devade123@gmail.com" style={{textDecoration: 'none'}} target='_blank'>Sent a message</a>
+      <a href="mailto:Surabhichourasia84@gmail.com" style={{textDecoration: 'none'}} target='_blank'>Sent a message</a>
         </p>
       </div>
       <form ref={form} onSubmit={sendEmail} className="contact--form--container">

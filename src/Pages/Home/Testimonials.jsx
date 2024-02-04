@@ -12,19 +12,17 @@ export default function Testimonial() {
       <div className="portfolio--section--container">
         {data?.testimonial?.map((item, index) => (
           <div key={index} className="testimonial--section--card">
-            <div  className="testimonial--section--card--review">
-              
-              
+            <div className="testimonial--section--card--review">
               <p className="text-md testimonial--author--name">
-                  {/* {item.author_name} */}
-                  <h2>{item.comany}</h2>
-                  <br />
-                </p>
-                <p className="text-md testimonial--author--designation">
-                  {/* {item.author_designation} */}
-                  {item.profile}
-                </p>
-                {/* <h4>{item.profile}</h4> */}
+                {/* {item.author_name} */}
+                <h2>{item.comany}</h2>
+                <br />
+              </p>
+              <p className="text-md testimonial--author--designation">
+                {/* {item.author_designation} */}
+                {item.profile}
+              </p>
+              {/* <h4>{item.profile}</h4> */}
               {/* {Array.from({ length: 5 }, (reviews, index) => (
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -41,6 +39,18 @@ export default function Testimonial() {
               ))} */}
             </div>
             <p className="text-md">{item.description}</p>
+            {/* <p>
+              Key project: Managed a comprehensive project for Smilepad,
+              encompassing various products such as sanitary pads, maternity
+              pads, and more. Took charge of client interactions, developed a
+              powerful marketing strategy, and created engaging website content.
+              Additionally, curated compelling product images along with
+              detailed descriptions for the website. Executed effective SEO
+              techniques, leading to improved online visibility and heightened
+              audience engagement. Merged creativity with strategic insights,
+              contributing to the enhanced digital presence and impactful
+              results for Smilepad.
+            </p> */}
             <div className="testimonial--section--card--author--detail">
               {/* <img src={item.src} alt="Avatar" /> */}
               <div>
