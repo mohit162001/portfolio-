@@ -1,0 +1,80 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/content-marketing.png",
+      "title": "Content Marketing",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+    },
+    {
+      "id": "2",
+      "src": "./img/sales.png",
+      "title": "Sale and marketing",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+    },
+    {
+      "id": "3",
+      "src": "./img/seo.png",
+      "title": "Search Engine Optimization",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+    },
+    {
+      "id": "4",
+      "src": "./img/social_media.png",
+      "title": "Social Media Marketing",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+    },
+    {
+      "id": "5",
+      "src": "./img/social_media.png",
+      "title": " Social Media Management ",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+    },
+    {
+      "id": "6",
+      "src": "./img/msword.png",
+      "title": "MS Excel, MS word",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+    },
+    {
+      "id": "7",
+      "src": "./img/crm.png",
+      "title": "ZOHO CRM",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+    },
+    {
+      "id": "8",
+      "src": "./img/adwords.png",
+      "title": "Google Adwords",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image-1.png",
+      "title": "Digital Marketing Executive ",
+      "description": "Incharge in developing and executing  social media Plateforms driving a surge in website traffic through strategic content creation for IT services. Created content for individuals including HOD’s HR and all technical associates for company’s portfolio. Handled Managed engaging content for diverse social media platform, complemented by impactful posters crafted with tools like Canva. Scheduled And Managed Team and Meetings for Project Management. As technical operations associate: Conducted And Scheduled Knowledge Transfer Session for all Associates, Tracking the meeting and prepared MoM of associates.",
+      "link": "View In Linktree",
+      "url": "https://linktr.ee/surabhi_chourasia"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Marketing Manager",
+      "description": "Revived Aircrew Aviation's online presence by creating articles, blogs, and presentations on current aviation affairs, boosting web traffic. Managed social media engagement across Instagram, Facebook, and LinkedIn, actively contributing to diverse marketing activities. Generated lead through innovative content strategies, leaving a lasting impact on the dynamic landscape of the aviation industry. Revived Aircrew Aviation's online presence by creating articles, blogs, and presentations on current aviation affairs, boosting web traffic. Managed social media engagement across Instagram, Facebook, and LinkedIn, actively contributing to diverse marketing activities. Generated lead through innovative content, leaving a lasting impact on the dynamic landscape of the aviation industry.",
+      "link": "View In Linktree",
+      "url": "https://linktr.ee/surabhi_chourasia"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "comany": "Paperfold sequential pvt Ltd ",
+      "src": "./img/avatar-image.png",
+      "description": "Led the charge in crafting and executing comprehensive digital marketing strategies, including SEO, content creation, and social media management for various company and clients, notably Smilepad.  Increased website traffic, Google Analytics, Google tag manager and improved SEO rankings. and fostered strong client relationships, translating their needs into impactful marketing initiatives while overseeing social media platforms for both the company and its clients.",
+      "author_name": "Dianne Russel",
+      "profile": "Digital Marketing Specialist"
+    }
+  ]
+}
